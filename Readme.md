@@ -1,4 +1,4 @@
-# Project2 [Live Link]()
+# Project2 [Live Link](https://live-class-project2.netlify.app)
 
 - Skills gained in this project
     - Learned to use linear gradient and background url in css
